@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SalesForceCLR.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SalesForceCLR_CapitalPayments_SforceService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://test.salesforce.com/services/Soap/c/24.0/0DFZ0000000CaWv</Value>
+    </Setting>
+    <Setting Name="SalesForceCLR_WebService_SforceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://test.salesforce.com/services/Soap/u/40.0</Value>
+    </Setting>
+    <Setting Name="SalesForceCLR_MetaDataService_MetadataService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://test.salesforce.com/services/Soap/m/40.0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
